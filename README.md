@@ -3,7 +3,7 @@
 A modern, interactive quiz application built with React, TypeScript, and Tailwind CSS. The application features a clean UI, real-time scoring, and gamification elements to create an engaging learning experience.
 
 ![Quiz App Screenshot](https://github.com/Rajput-vinay/image/blob/main/ss1.jpg)
-
+![Quiz App Screenshot](https://github.com/Rajput-vinay/image/blob/main/ss2.jpg)
 ## Features
 
 - 🎯 Dynamic quiz questions loaded from API
